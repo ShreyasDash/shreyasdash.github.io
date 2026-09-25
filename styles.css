@@ -737,7 +737,7 @@ body.dark-mode .repo-link {
 }
 
 body.dark-mode .project:nth-child(2) .repo-link {
-    background: var(--orange)
+    background: var(--green)
 }
 
 body.dark-mode .achievement,
